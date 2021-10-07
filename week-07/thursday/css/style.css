@@ -1,0 +1,57 @@
+/* This is a comment in CSS! */
+
+/*
+  UNCOMMENT ONE EXAMPLE BELOW AT A TIME TO SEE HOW IT APPEARS IN
+  THE BROWSER!
+*/
+
+body {
+  color: black;
+}
+
+/* a:hover {
+  color: red;
+} */
+
+/* p::first-line {
+  font-weight: bold;
+} */
+
+/* h1,
+h2,
+h3,
+h4 {
+  color: red;
+} */
+
+/* figcaption {
+  color: red;
+} */
+
+/* time::before {
+  content: "🗓";
+} */
+
+/* time[datetime] {
+  color: red;
+} */
+
+/* [lang='ar'] {
+  color: red;
+} */
+
+/* section {
+  color: red;
+} */
+
+/* #introduction {
+  color: blue;
+} */
+
+/* #people-and-society ol li {
+  list-style-type: decimal-leading-zero;
+} */
+
+/* .alt-row {
+  background-color: #ddd;
+} */
